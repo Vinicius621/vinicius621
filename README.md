@@ -9,30 +9,12 @@ Sou um jovem desenvolvedor front-end em constante aprendizado, sempre em busca d
 Atualmente, estou aprofundando meus conhecimentos em **JavaScript**, **React** e **Vue.js**, além de explorar novas ferramentas e tendências para garantir que meus projetos sejam modernos e eficientes. 💡
 
 ## 💻 Minhas habilidades
-- **HTML5** | **CSS3** | **JavaScript** | **TypeScript**
-- **React** | **Vue.js** | **SASS** | **Styled Components**
-- **Git & GitHub** | **Node.js** | **Webpack** | **Babel**
-- **Design Responsivo** | **Performance Web** | **UI/UX**
-
-## 🌱 O que estou aprendendo
-- **React Native** para criar apps móveis incríveis 📱
-- **Next.js** para otimização de SEO e criação de sites estáticos ⚡
-- **GraphQL** para consumir APIs de forma eficiente 🔍
-
-## 🛠 Projetos recentes
-- [**Meu portfólio pessoal**](https://meuportfolio.com): Criei uma versão personalizada do meu portfólio com animações CSS e integrações em React.
-- [**To-Do List App**](https://github.com/meuusername/todolist): Uma aplicação de lista de tarefas, desenvolvida em React e com persistência de dados no **localStorage**.
-
-## 🌎 Onde me encontrar
-- **GitHub**: [@meuusername](https://github.com/meuusername)
-- **LinkedIn**: [meu-linkedin](https://www.linkedin.com/in/meu-linkedin)
-- **Twitter**: [@meutwitter](https://twitter.com/meutwitter)
+- **HTML5** | **CSS3** | **JavaScript** | 
+- **Git & GitHub** | **Node.js**(em aprendizado) |
 
 ---
 
 > "A única maneira de fazer um excelente trabalho é amar o que você faz." – Steve Jobs
-
-Sinta-se à vontade para explorar meu código, fazer contribuições e trocar ideias! 🚀
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vinicius621&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false" height="150" alt="stats graph"  />
